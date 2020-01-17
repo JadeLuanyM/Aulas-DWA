@@ -1,0 +1,16 @@
+CRUD
+Create/ Read/ Update/ Delete
+
+
+Acessos:
+
+// http://localhost/dwa/index.php/cliente/cadastro
+// http://localhost/dwa/index.php/cliente/lista
+
+
+A5:
+0. Criar uma tabela no Banco de Dados.
+1. Defina os campos form em função do Banco de Dados.
+2. Defina o valor de action para o form. (Method="POST")
+3. Usar methodo post (Linha acima).
+4. No controlador criar o model que manipula os dados.
